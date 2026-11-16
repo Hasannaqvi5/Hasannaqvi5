@@ -1,6 +1,6 @@
 <h2>Hasan Naqvi</h2>
 
-<a href="https://hasannaqvi.site"><img src="https://img.shields.io/badge/hasannaqvi.site-0B3D91?style=flat-square&logo=safari&logoColor=white" /></a>
+<a href="https://hasannaqvi.site"><img src="https://img.shields.io/badge/hasannaqvi.site-0B3D91?style=flat-square" /></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0B3D91?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:h6naqvi@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-0B3D91?style=flat-square&logo=gmail&logoColor=white" /></a>
 
@@ -43,19 +43,14 @@
 
 ### Stack
 
-**Languages** · `Python` `JavaScript` `MATLAB`
-**Data** · `NumPy` `pandas` `Matplotlib`
-**Web** · `Next.js` `Supabase` `Vercel`
+**Languages** · `Python` `JavaScript` `MATLAB`<br>
+**Data** · `NumPy` `pandas` `Matplotlib`<br>
+**Web** · `Next.js` `Supabase` `Vercel`<br>
 **Tools** · `Git` `GitHub`
 
 ---
 
 ### Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hasannaqvi5&show_icons=true&theme=transparent&hide_border=true&title_color=1F6FEB&text_color=C3D1D9&icon_color=1F6FEB" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasannaqvi5&layout=compact&theme=transparent&hide_border=true&title_color=1F6FEB&text_color=C3D1D9" />
-</p>
 
 <img src="https://streak-stats.demolab.com/?user=Hasannaqvi5&theme=dark&hide_border=true&background=00000000&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" />
 
